@@ -1,6 +1,6 @@
 Here is how the game works:
 
-1. Take turns with the player 2 putting a card on one of three stacks in the middle of the table.  
+1. Take turns putting a card on one of three stacks in the middle of the table.  
 2. You can put on a card that is one value higher or one value lower.  (6 on a 5 OR 4 on a 5, Q on a J OR T on a J, etc.) 
 3. After you play, you get another card from the deck in your hand.
 4. The number of cards remaining in the deck should be displayed on the screen.
